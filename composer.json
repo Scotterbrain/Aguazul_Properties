@@ -1,0 +1,15 @@
+{
+    "name": "scott/aguazul_properties",
+    "description": "web app",
+    "type": "project",
+    "require": {
+        "php": "^8.2",
+        "pentatrion/vite-bundle": "^7.0"
+    },
+    "authors": [
+        {
+            "name": "Scotterbrain",
+            "email": "65195006+Scotterbrain@users.noreply.github.com"
+        }
+    ]
+}
